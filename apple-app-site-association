@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "8T9JT5TRGF.jp.tkd.buytask",
-                "paths": [ "/" ]
+                "paths": [ "*" ]
             }
         ]
     }
