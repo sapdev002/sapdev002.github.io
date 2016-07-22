@@ -1,10 +1,10 @@
 {
   "applinks": {
     "apps": [],
-    "details": [
+      "details": [
       {
-        "appID": "75378529F4.jp.neoscorp.test.photoviewer",
-        "paths":[ "/" ]
+        "appID": "J349XY2U25.com.nttdocomo.PhotoCollection2",
+        "paths":[ "/plus/iOS/app_install.html" ]
       }
     ]
   }
